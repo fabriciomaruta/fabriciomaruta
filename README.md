@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 
 
 ---
-- 🔭 I’m currently working with FastAPI :zap:
-- 🌱 I’m currently learning Emacs :dash:
+- 🌱 I’m currently learning about Emacs :dash:
 - 💬 Ask me about anything, I'm wide open to discuss everything. I'm here to learn :squirrel:
 - 📫 How to reach me: fabricio.maruta@gmail.com :envelope:
 - ⚡ Fun fact: Love Skateboard 🛹 and Table Tennis 🏓
