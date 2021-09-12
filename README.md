@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 -->
 <h1 align=center> Hi There ! :v:</h1>
 <div align=center>
-![computer](https://github.com/fabriciomaruta/fabriciomaruta/blob/main/beavis-computer.gif)
+<h2>My name is Fabrício Maruta and I'm a FullStack developer.</h2>
+<img src="beavis-computer.gif" />
 </div>
