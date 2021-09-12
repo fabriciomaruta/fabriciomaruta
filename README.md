@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 <h1 align=center> Hi There ! :v:</h1>
 <div align=center>
 <p >My name is Fabrício Maruta and I'm a FullStack developer.</p>
-![Alt Text](https://tenor.com/view/beavis-computer-shitposting-gif-7431307)
+![](https://tenor.com/FlnX.gif)
 </div>
