@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:construction:  :construction: :construction: :construction: :construction: 
 <h1 align=center> Hi There ! :v:</h1>
 <div align=center>
 <h2>My name is Fabrício Maruta and I'm a FullStack developer.</h2>
