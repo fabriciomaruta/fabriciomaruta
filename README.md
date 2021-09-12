@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 <h1 align=center> Hi There ! :v:</h1>
 <div align=center>
 <p >My name is Fabrício Maruta and I'm a FullStack developer.</p>
-![](https://tenor.com/FlnX.gif)
+<div class="tenor-gif-embed" data-postid="7431307" data-share-method="host" data-aspect-ratio="1.30851" data-width="100%"><a href="https://tenor.com/view/beavis-computer-shitposting-gif-7431307">Beavis Computer GIF</a>from <a href="https://tenor.com/search/beavis-gifs">Beavis GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
