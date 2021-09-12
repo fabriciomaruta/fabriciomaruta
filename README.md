@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **fabriciomaruta/fabriciomaruta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align=center> Hi There ! :v:</h1>
+<div align=center>
+<p >My name is Fabrício Maruta and I'm a FullStack developer.</p>
+![Alt Text](https://tenor.com/view/beavis-computer-shitposting-gif-7431307)
+</div>
