@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align=center>
 <div>
 <h2>My name is Fabrício Maruta and I'm a FullStack developer.</h2>
-3 Letters enthusiast. DIY, KISS :kissing_heart: .
+3 Letters enthusiast. DIY, KIS :kissing_heart: .
 </div>
 <img src="beavis-computer.gif" width=290 />
 </div>
