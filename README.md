@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 
 ---
 - 🌱 I’m currently learning about Emacs :dash:
-- 💬 Ask me about anything, I'm wide open to discuss everything. I'm here to learn 🤯
+- 💬 Ask me about anything. I'm wide open to discussing everything. I'm here to learn. 🤯
 - 📫 How to reach me: fabricio.maruta@gmail.com :envelope:
 - ⚡ Fun fact: Love Skateboard 🛹 and Table Tennis 🏓
